@@ -16,7 +16,7 @@
         ]
       }
     },
-      { "type" :"Feature,
+      { "type" :"Feature",
         "id" : 2,
         "geometry":{
           "type": "Polygon",
